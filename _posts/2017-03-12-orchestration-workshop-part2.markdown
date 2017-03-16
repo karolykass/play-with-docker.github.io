@@ -29,4 +29,4 @@ Links:
 - [Introduction](http://jpetazzo.github.io/orchestration-workshop/)
   (recommended reading)
 - [Part 2](http://jpetazzo.github.io/orchestration-workshop/#part-2)
-- [Play-With-Docker](http://www.play-with-docker.com/) environment
+- [Play-With-Docker](http://play-with-docker.com/) environment
