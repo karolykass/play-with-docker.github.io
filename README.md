@@ -14,4 +14,4 @@ Just check the [posts](https://github.com/franela/franela.github.io/tree/master/
 
 Clone the repo and run `docker-compose up`
 
-Browser the site by visiting http://localhost:4000
+Browse the site by visiting http://localhost:4000
