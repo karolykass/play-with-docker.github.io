@@ -14,4 +14,4 @@ Just check the [posts](https://github.com/franela/franela.github.io/tree/master/
 
 Clone the repo and run the following docker container: `docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve`
 
-Browser the site by visiting http://localhost:4000
+Browse the site by visiting http://localhost:4000
