@@ -290,7 +290,7 @@ docker container start CONTAINER_ID
 Run an interactive shell in this container. We will use the **exec** command to do so.
 
 ```
-docker container exec -ti CONTAINER_ID
+docker container exec -ti CONTAINER_ID bash
 ```
 
 Verify figlet is present in this container.
